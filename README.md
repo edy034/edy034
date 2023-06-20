@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **PRESERVING CULTURAL HERITAGE SITES THROUGH RANDOM FOREST AND XGBOOST ALGORITHM FOR MICROCLIMATE MONITORING AND PREDICTION**
+- 🔭 I’m currently working on a research entitled **PRESERVING CULTURAL HERITAGE SITES THROUGH RANDOM FOREST AND XGBOOST ALGORITHM FOR MICROCLIMATE MONITORING AND PREDICTION**
 
 - 🌱 I’m currently learning **Software Engineering**
 
