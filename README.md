@@ -60,13 +60,13 @@
 <details>
  <summary><h2>📚My Past Project</h2></summary>
 <p align="left">
-    <a href="https://github.com/AlieyaZawanie/Car-Booking-System"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=edy034&repo=Microclimate-Data-Analysis&theme=react&bg_color=1F222E&title_color=BD93F9&hide_border=true&icon_color=F8D866&show_icons=false" alt="Microclimate-Data-Analysis"></a>
+    <a href="https://github.com/edy034/undergraduate-project"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=edy034&repo=undergraduate-project&theme=react&bg_color=1F222E&title_color=BD93F9&hide_border=true&icon_color=F8D866&show_icons=false" alt="undergraduate-project"></a>
 </p>
 
 
 </details>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=AlieyaZawanie&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=edy034&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" /> </p>
 
 ## Use To Code
 
