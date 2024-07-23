@@ -33,7 +33,7 @@
   <div style="float: left; margin-right: 20px;">
     <img align="right" width="350" src="/assets/programmer.gif" alt="Coding gif" />
     <p>
-      💬 &emsp; Currently pursuing a Bachelor of Computer Science in Software Engineering at Universiti Teknologi Malaysia <br/><br/>
+      💬 &emsp; Fresh graduate holding Bachelor of Computer Science (Hons) Software Engineering at Universiti Teknologi Malaysia <br/><br/>
       ✌️ &emsp; Enjoy doing programming and sharing knowledge <br/><br/>
       ❤️ &emsp; Love to learn something new <br/><br/>
       📧 &emsp; Reach me anytime: imanaidielham@gmail.com <br/><br/>
